@@ -1,2 +1,9 @@
+
 *.log
 .ipynb
+.nb
+
+Disper/
+data/
+*.dat
+!CF.dat
